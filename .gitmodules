@@ -1,4 +1,4 @@
 [submodule "SpongeCommon"]
 	path = SpongeCommon
-	url = https://github.com/SpongePowered/SpongeCommon.git
+	url = git@github.com:chaoticplanes/SpongeCommon.git
 	branch = bleeding
