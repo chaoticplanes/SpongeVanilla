@@ -1,4 +1,4 @@
 [submodule "SpongeCommon"]
 	path = SpongeCommon
 	url = git@github.com:chaoticplanes/SpongeCommon.git
-	branch = bleeding
+	branch = cpquest
